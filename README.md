@@ -17,3 +17,8 @@ Vdetection1 is using grabscreen1
 Vdetection2 using grabscreen2
 
 we are only detecting cars truck and bus 
+
+
+
+env.yml is the yml file of anaconda you can replicate enivornment using
+conda env create -n env_name -f env.yml
